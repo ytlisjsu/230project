@@ -79,6 +79,6 @@
 
 	link on Github: https://github.com/ytlisjsu/230project/blob/2694c0bf3831aa8aa81bf2d17e613f5d99402254/230project.twb
 
-	This workbook must be put in the same folder with datasets "etf.csv", "spydata_ir_adjust.csv" and "stock.csv"
+	This workbook must work together with datasets "etf.csv", "spydata_ir_adjust.csv" and "stock.csv"
 
 
