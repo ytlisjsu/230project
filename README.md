@@ -7,7 +7,7 @@
 
 	file name: etf.csv
 
-	resource: http://www.kibot.com/historical_data/All_ETFs_Historical_Intraday_Data.aspx
+	source: http://www.kibot.com/historical_data/All_ETFs_Historical_Intraday_Data.aspx
 	link on Github: https://github.com/ytlisjsu/230project/blob/62ed76757a6984cc33f823508a16b1f4938a921b/etf.csv
 
 
@@ -25,18 +25,18 @@
 
 	3.1 file name: spy_location_sector_year.xlsx
 
-	resource_1: https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+	source_1: https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 	link on Github: https://github.com/ytlisjsu/230project/blob/e304c7b221afc3833444107d192c6176e5b03b1c/spy_location_sector_year.xlsx
 
 	3.2 file name: spy_weight.xlsx
 
-	resource_2: https://www.slickcharts.com/sp500
+	source_2: https://www.slickcharts.com/sp500
 	link on Github: https://github.com/ytlisjsu/230project/blob/e304c7b221afc3833444107d192c6176e5b03b1c/spy_weight.xlsx
 
 
 	3.3 file name: spy_location_sector_year_weight.tfl
 
-	joined resource_1 and resource_2 by Tableau Prep Builder 
+	joined source_1 and source_2 by Tableau Prep Builder 
 	tfl file link on Github: https://github.com/ytlisjsu/230project/blob/9fe989776af011664e2f9413b2a78c650b169a55/spy_location_sector_year_weight.tfl
 
 	3.4 output file name: stock.csv
